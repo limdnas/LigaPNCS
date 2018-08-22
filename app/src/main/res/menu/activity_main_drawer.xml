@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_participantes"
+            android:icon="@drawable/participantes"
+            android:title="Participantes" />
+        <item
+            android:id="@+id/nav_graficos"
+            android:icon="@drawable/grafico"
+            android:title="Graficos" />
+        <item
+            android:id="@+id/nav_reglamento"
+            android:icon="@drawable/reglas"
+            android:title="Reglamento" />
+    </group>
+
+    <item android:title="Puntos">
+        <menu>
+            <item
+                android:id="@+id/nav_clasificacion"
+                android:icon="@drawable/clasf"
+                android:title="Clasificacion" />
+            <item
+                android:id="@+id/nav_puntosenvivo"
+                android:icon="@drawable/online"
+                android:title="Puntos en Vivo" />
+        </menu>
+    </item>
+
+</menu>

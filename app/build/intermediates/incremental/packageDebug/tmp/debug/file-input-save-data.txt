@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Aug 20 23:46:14 CEST 2018
+#Wed Aug 22 00:11:26 CEST 2018
 1.base=C\:\\Users\\sanda\\Documents\\GitHub\\LigaPNCS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 2.path=classes.dex
 0.baseType=DIRECTORY
