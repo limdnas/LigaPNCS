@@ -12,6 +12,9 @@ import android.view.MenuItem
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
 import android.support.v4.widget.DrawerLayout
+import com.ajatsoft.ligapncs.R.id.drawer_layout
+import android.content.Intent
+
 
 
 
@@ -56,11 +59,14 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
+        // Handle item selection
         when (item.itemId) {
-            R.id.action_settings -> return true
+            R.id.action_settings -> {
+                val intent1 = Intent(this, WeatherActivity::class.java)//firstActivity
+                startActivity(intent1)
+                return true
+            }
+
             else -> return super.onOptionsItemSelected(item)
         }
     }

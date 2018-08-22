@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="26"
+    abi="x86"
+    api-level="24"
     build-mode="COLD"
-    density="xxhdpi"
+    density="420dpi"
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1534892643876"
-    token="-3451253642553323766"
+    timestamp="1534947594371"
+    token="-7796219262699625727"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
@@ -19,66 +19,75 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="22" />
+        duration="30" />
     <task
         name="verifier"
-        duration="11" />
+        duration="5" />
 
     <artifact
-        location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1534889466645"
+        timestamp="1534942645282"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1534892643876"
+        timestamp="1534946347382"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1534947594371"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\sanda\Documents\GitHub\LigaPNCS\LigaPNCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
     </build>
 

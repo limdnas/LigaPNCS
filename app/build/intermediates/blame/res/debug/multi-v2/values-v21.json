@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sanda\\Documents\\GitHub\\LigaPNCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\sanda\\Documents\\GitHub\\LigaPNCS\\LigaPNCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\sanda\\Documents\\GitHub\\LigaPNCS\\LigaPNCS\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "246"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "577"
+                    }
+                },
                 {
                     "source": "C:\\Users\\sanda\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0cada1fa8b1aba40cda46164fab6bcce\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -39,25 +58,6 @@
                         "endLines": "292,295,299,303",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "21392,21555,21849,22144"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\sanda\\Documents\\GitHub\\LigaPNCS\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "240"
-                    },
-                    "to": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "354",
-                        "endLines": "10",
-                        "endColumns": "12",
-                        "endOffsets": "577"
                     }
                 },
                 {
